@@ -23,4 +23,4 @@ Boom! access `project.local` on your favorite browser
 
 For any question or emprovement please send an e-mail to Ahmed Raza [muhammadahmedraza622@gamil.com](mailto:muhammadahmedraza622@gamil.com).
 
-[https://www.linkedin.com/in/m-ahmedraza/](linkediIn).
+[https://www.linkedin.com/in/m-ahmedraza](linkediIn).
